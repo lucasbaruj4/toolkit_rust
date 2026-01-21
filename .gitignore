@@ -1,5 +1,5 @@
 # Cargo build output
-/target/
+target/
 
 # Rustfmt backup files
 *.rs.bk
